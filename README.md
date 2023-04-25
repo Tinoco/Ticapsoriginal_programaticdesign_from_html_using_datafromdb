@@ -27,11 +27,11 @@ Programatic Design From Html Using Data From Sqlite3 Database
 <pre><code>pip install tqdm
 </code></pre>
 
-## Install html2image to get responses and make requests: 
+## Install html2image to parse html to image: 
 <pre><code>pip install html2image
 </code></pre>
 
-## Clone ticapsoriginaltweepy repository:
+## Clone Ticapsoriginal programatic design repository:
 <pre><code> git clone https://github.com/Tinoco/Ticapsoriginal_programaticdesign_from_html_using_datafromdb.git
 </code></pre>
 
