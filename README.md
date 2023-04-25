@@ -39,6 +39,8 @@ Programatic Design From Html Using Data From Sqlite3 Database
 <pre><code> python programatic.py
 </code></pre>
 
+# result ( many unique images with data ):
+
 ![](https://ticapsoriginal.com/static/programatic.gif)
 
 ## quality:
