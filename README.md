@@ -35,6 +35,9 @@ Programatic Design From Html Using Data From Sqlite3 Database
 <pre><code> git clone https://github.com/Tinoco/Ticapsoriginal_programaticdesign_from_html_using_datafromdb.git
 </code></pre>
 
+## Make Programatic design from html using db data:
+<pre><code> python programatic.py
+</code></pre>
 
 ![](https://ticapsoriginal.com/static/programatic.gif)
 
