@@ -2,7 +2,7 @@
 
 Programatic Design From Html Using Data From Sqlite3 Database
 
-* acess sqlite3 db 
+* access sqlite3 db 
 * use or change html scope
 * generate png files
 
